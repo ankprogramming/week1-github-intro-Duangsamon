@@ -121,13 +121,12 @@ function fancyAlert(arg) {
 -ทำอาหาร
 
 **ประวัติการศึกษา**
+
 |อนุบาล|ประถม|มัธยมต้น|มัธยมปลาย|ปัจจุบัน|
-
 |-----|:---:|:-----:|:-----:|-------:|
-
 |2547|2553|2556|2559|2560|
 
-เว็บไซต์ [ที่นี่](gg.gg/parw1 "eportfolio")
+เว็บไซต์ eportfolio [ที่นี่](https://sites.google.com/site/duangsamonpuetsalung/ "eportfolio")
 
 อาหารโปรด
 
@@ -147,7 +146,7 @@ function fancyAlert(arg) {
 
 ภาพ
 
-![alt text](https://drive.google.com/drive/folders/0BxAhoS3t6oJKdWFxeDFNMnoyME0)
+![alt text](https://i.ytimg.com/vi/_SXdMYghPLw/hqdefault.jpg)
 
 [x]ได้เรียนรู้การใช้สิ่งใหม่ๆ
 [x]เรียนรู้ในสิ่งที่ไม่่เคยรู้
